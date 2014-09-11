@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg height="100%" heigth="100" id="Cluster" width="76.9" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<polygon points="0,44 0.775,44 0.775,40 10.775,50 0.775,60 0.775,56 0,56 " style="stroke-width: 0; stroke: black; stroke-opacity: 0; fill: black; fill-opacity: 1" />
+	<text style="font: Arial; font-size: 12" transform="rotate(-60,3.59,35.00)" x="3.59" y="35.00">z4267</text>
+	<polygon points="11.35,44 15.8,44 15.8,40 25.8,50 15.8,60 15.8,56 11.35,56 " style="stroke-width: 0; stroke: black; stroke-opacity: 0; fill: black; fill-opacity: 1" />
+	<text style="font-size: 12; font: Arial" transform="rotate(-60,16.17,35.00)" x="16.17" y="35.00">z4268</text>
+	<polygon points="25.825,44 33.5,44 33.5,40 43.5,50 33.5,60 33.5,56 25.825,56 " style="stroke-opacity: 0; stroke: black; stroke-width: 0; fill: black; fill-opacity: 1" />
+	<text style="font-size: 12; font: Arial" transform="rotate(-60,31.72,35.00)" x="31.72" y="35.00">z4269</text>
+	<polygon points="43.2,44 50.125,44 50.125,40 60.125,50 50.125,60 50.125,56 43.2,56 " style="stroke-opacity: 0; stroke: black; stroke-width: 0; fill: black; fill-opacity: 1" />
+	<text style="font-size: 12; font: Arial" transform="rotate(-60,48.84,35.00)" x="48.84" y="35.00">z4270</text>
+	<polygon points="59.15,44 66.9,44 66.9,40 76.9,50 66.9,60 66.9,56 59.15,56 " style="fill-opacity: 1; fill: black; stroke-opacity: 0; stroke: black; stroke-width: 0" />
+	<text style="font-size: 12; font: Arial" transform="rotate(-60,65.07,35.00)" x="65.07" y="35.00">z4270</text>
+	<!-- 
+	Generated using the Perl SVG Module V2.59
+	by Ronan Oger
+	Info: http://www.roitsystems.com/
+ -->
+</svg>
