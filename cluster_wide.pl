@@ -2,6 +2,7 @@
 use strict;
 use SVG;
 use Getopt::Long;
+use GD;
 
 my $ver = "1.0.0";
 
