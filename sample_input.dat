@@ -1,5 +1,12 @@
-z4267   arrow	3878847	3879278	+	black
-z4268	arrow	3879301	3879879	+	black
-z4269	arrow	3879880	3880587	+	black
-z4270	arrow	3880575	3881252	+	black
-z4270	arrow	3881213	3881923	+	black
+rmlB	arrow	166	1239	+	red
+rmlA	arrow	1242	2111	+	red
+fdtA	arrow	2108	2530	+	red
+fdtC	2502	2954	+	red
+fdtB	arrow	2955	3887	+	red
+weoD	arrow	3887	4990	+	red
+wzx	box 4987	6237	+	red
+weoE	arrow	6246	7403	+	red
+wzy	box 7414	8622	+	red
+weoF	arrow	8635	9414	+	red
+weoG	arrow	9476	10315	+	red
+weoH	arrow	10408	11081	+	red

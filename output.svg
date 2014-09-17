@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg height="100%" heigth="100" id="Cluster" width="76.9" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-	<polygon points="0,44 0.775,44 0.775,40 10.775,50 0.775,60 0.775,56 0,56 " style="stroke-width: 0; stroke: black; stroke-opacity: 0; fill: black; fill-opacity: 1" />
-	<text style="font: Arial; font-size: 12" transform="rotate(-60,3.59,35.00)" x="3.59" y="35.00">z4267</text>
-	<polygon points="11.35,44 15.8,44 15.8,40 25.8,50 15.8,60 15.8,56 11.35,56 " style="stroke-width: 0; stroke: black; stroke-opacity: 0; fill: black; fill-opacity: 1" />
-	<text style="font-size: 12; font: Arial" transform="rotate(-60,16.17,35.00)" x="16.17" y="35.00">z4268</text>
-	<polygon points="25.825,44 33.5,44 33.5,40 43.5,50 33.5,60 33.5,56 25.825,56 " style="stroke-opacity: 0; stroke: black; stroke-width: 0; fill: black; fill-opacity: 1" />
-	<text style="font-size: 12; font: Arial" transform="rotate(-60,31.72,35.00)" x="31.72" y="35.00">z4269</text>
-	<polygon points="43.2,44 50.125,44 50.125,40 60.125,50 50.125,60 50.125,56 43.2,56 " style="stroke-opacity: 0; stroke: black; stroke-width: 0; fill: black; fill-opacity: 1" />
-	<text style="font-size: 12; font: Arial" transform="rotate(-60,48.84,35.00)" x="48.84" y="35.00">z4270</text>
-	<polygon points="59.15,44 66.9,44 66.9,40 76.9,50 66.9,60 66.9,56 59.15,56 " style="fill-opacity: 1; fill: black; stroke-opacity: 0; stroke: black; stroke-width: 0" />
-	<text style="font-size: 12; font: Arial" transform="rotate(-60,65.07,35.00)" x="65.07" y="35.00">z4270</text>
+<svg height="100%" heigth="100" id="Cluster" width="272.625" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<polygon points="0,44 16.825,44 16.825,40 26.825,50 16.825,60 16.825,56 0,56 " style="fill: red; fill-opacity: 1; stroke: black; stroke-width: 0; stroke-opacity: 0" />
+	<text style="font: Arial; font-size: 12" transform="rotate(-60,8.94,35.00)" x="8.94" y="35.00">rmlB</text>
+	<polygon points="26.9,44 38.625,44 38.625,40 48.625,50 38.625,60 38.625,56 26.9,56 " style="fill: red; fill-opacity: 1; stroke: black; stroke-width: 0; stroke-opacity: 0" />
+	<text style="font: Arial; font-size: 12" transform="rotate(-60,34.14,35.00)" x="34.14" y="35.00">rmlA</text>
+	<polygon points="48.55,44 49.1,44 49.1,40 59.1,50 49.1,60 49.1,56 48.55,56 " style="fill: red; fill-opacity: 1; stroke: black; stroke-width: 0; stroke-opacity: 0" />
+	<text style="font: Arial; font-size: 12" transform="rotate(-60,52.07,35.00)" x="52.07" y="35.00">fdtA</text>
+	<polygon points="58.4,44 59.7,44 59.7,40 69.7,50 59.7,60 59.7,56 58.4,56 " style="fill: red; fill-opacity: 1; stroke: black; stroke-width: 0; stroke-opacity: 0" />
+	<text style="font: Arial; font-size: 12" transform="rotate(-60,62.17,35.00)" x="62.17" y="35.00">fdtC</text>
+	<polygon points="69.725,44 83.025,44 83.025,40 93.025,50 83.025,60 83.025,56 69.725,56 " style="fill: red; fill-opacity: 1; stroke: black; stroke-width: 0; stroke-opacity: 0" />
+	<text style="font: Arial; font-size: 12" transform="rotate(-60,77.49,35.00)" x="77.49" y="35.00">fdtB</text>
+	<polygon points="93.025,44 110.6,44 110.6,40 120.6,50 110.6,60 110.6,56 93.025,56 " style="fill: red; fill-opacity: 1; stroke: black; stroke-width: 0; stroke-opacity: 0" />
+	<text style="font: Arial; font-size: 12" transform="rotate(-60,102.22,35.00)" x="102.22" y="35.00">weoD</text>
+	<polygon points="120.525,44 141.775,44 141.775,40 151.775,50 141.775,60 141.775,56 120.525,56 " style="fill: blue; fill-opacity: 1; stroke: black; stroke-width: 0; stroke-opacity: 0" />
+	<text style="font: Arial; font-size: 12" transform="rotate(-60,130.94,35.00)" x="130.94" y="35.00">wzx</text>
+	<polygon points="152,44 170.925,44 170.925,40 180.925,50 170.925,60 170.925,56 152,56 " style="fill: green; fill-opacity: 1; stroke: black; stroke-width: 0; stroke-opacity: 0" />
+	<text style="font: Arial; font-size: 12" transform="rotate(-60,161.64,35.00)" x="161.64" y="35.00">weoE</text>
+	<polygon points="181.2,44 201.4,44 201.4,40 211.4,50 201.4,60 201.4,56 181.2,56 " style="fill: blue; fill-opacity: 1; stroke: black; stroke-width: 0; stroke-opacity: 0" />
+	<text style="font: Arial; font-size: 12" transform="rotate(-60,191.27,35.00)" x="191.27" y="35.00">wzy</text>
+	<polygon points="211.725,44 221.2,44 221.2,40 231.2,50 221.2,60 221.2,56 211.725,56 " style="fill: green; fill-opacity: 1; stroke: black; stroke-width: 0; stroke-opacity: 0" />
+	<text style="font: Arial; font-size: 12" transform="rotate(-60,218.22,35.00)" x="218.22" y="35.00">weoF</text>
+	<polygon points="232.75,44 243.725,44 243.725,40 253.725,50 243.725,60 243.725,56 232.75,56 " style="fill: green; fill-opacity: 1; stroke: black; stroke-width: 0; stroke-opacity: 0" />
+	<text style="font: Arial; font-size: 12" transform="rotate(-60,239.74,35.00)" x="239.74" y="35.00">weoG</text>
+	<polygon points="253.95,44 262.625,44 262.625,40 272.625,50 262.625,60 262.625,56 253.95,56 " style="fill: green; fill-opacity: 1; stroke: black; stroke-width: 0; stroke-opacity: 0" />
+	<text style="font: Arial; font-size: 12" transform="rotate(-60,260.18,35.00)" x="260.18" y="35.00">weoH</text>
 	<!-- 
 	Generated using the Perl SVG Module V2.59
 	by Ronan Oger
