@@ -16,7 +16,7 @@ usage: clusterViz.pl -i input.dat >output.svg
 
 my $input_file;
 my $help =0;
-my $version;
+my $version = 0;
 
 GetOptions(
 		'i|input:s'     => \$input_file,
@@ -24,21 +24,9 @@ GetOptions(
 		'v|version'    => \$version
 		);
 
-if( $version) {
-	die &version;
-}
 
 if( $help ) {
 	die $USAGE;
-}
-
-if($input_file == ""){
-	die $USAGE;	
-	}
-
-sub version{
-    print "Version: $VER\n";
-    exit 0;
 }
 
 my (%name, %shape, %start, %end, %strand, %color);
