@@ -4,18 +4,42 @@ use SVG;
 use Getopt::Long;
 use GD;
 
-my $ver = "1.0.0";
+my $VER = "1.0.0";
 
-use vars qw($input_file $help $version);
+my $USAGE = "
+usage: clusterViz.pl -i input.dat >output.svg
 
-GetOptions("input|i=s"=>\$input_file,
-            "help|h"=>\$help,
-            "verison|v"=>\$version
-            ) or die "Error read paramaters\n";
-help() if $help;
-version() if $version;
+	-i|input		input file
+	-h|help|?		show help messages
+	-v|version		show version
+";
 
+my $input_file;
+my $help =0;
+my $version;
 
+GetOptions(
+		'i|input:s'     => \$input_file,
+		'h|help|?'    => \$help,
+		'v|version'    => \$version
+		);
+
+if( $version) {
+	die &version;
+}
+
+if( $help ) {
+	die $USAGE;
+}
+
+if($input_file == ""){
+	die $USAGE;	
+	}
+
+sub version{
+    print "Version: $VER\n";
+    exit 0;
+}
 
 my (%name, %shape, %start, %end, %strand, %color);
 my $w_rate = 0.6;
@@ -176,16 +200,3 @@ sub box{
 
 print $image->xmlify;
 
-sub help{
-    print "
-    -input|i    Input file.
-    -help|h     Show this help message.    
-    -version|v  Show version.
-\n";
-    exit 0;
-}
-
-sub version{
-    print "Version: $ver\n";
-    exit 0;
-}
