@@ -6,4 +6,4 @@ gene cluster visualization tool
 Usage
 -----
 
-    perl cluster_wide.pl -i sample_input.dat > output.svg
+    perl clusterViz.pl -i sample_input.dat > output.svg
