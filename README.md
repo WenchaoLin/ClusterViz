@@ -1,9 +1,11 @@
-Clusterd
-========
+ClusterViz
+==========
 
 gene cluster visualization tool
 
 Usage
 -----
 
-perl cluster_wide.pl -input input.gff >output.svg
+```perl
+perl cluster_wide.pl -i sample_input.dat > output.svg
+```
